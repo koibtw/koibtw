@@ -41,21 +41,7 @@ im mostly active on my own open forgejo instance, [git.koi.rip]. go check it out
 <br>
 <div>
 
-email • <me@koi.rip>
-
-git.koi.rip • <a href="https://git.koi.rip/koi" target="_blank">@koi</a><br>
-codeberg • <a href="https://codeberg.org/koibtw" target="_blank">@koibtw</a><br>
-github • <a href="https://github.com/koibtw" target="_blank">@koibtw</a><br>
-
-bluesky • <a href="https://bsky.app/profile/did:plc:b26ewgkrnx3yvsp2cdao3ntu" target="_blank">@koi.rip</a><br>
-matrix • <a href="https://matrix.to/#/@koi:nelliel.cv" target="_blank">@koi:nelliel.cv</a><br>
-discord • <a href="https://discord.com/users/1400922134355644458" target="_blank">@catpotatoburger</a><br>
-
-[website][my website]
-<br>
-[donate](https://koi.rip/donate)
-
-<b>
+see <https://koi.rip/contact> (trying to protect myself from spam sorry)
 
 [`00F61623FB56BC5BB7094E634CE6C1172DF6BE79`][ecc]
 <br>
