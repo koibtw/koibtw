@@ -71,8 +71,8 @@ see <https://koi.rip/contact> (trying to protect myself from spam sorry)
 | [jule.nvim]    | official [jule] plugin for neovim                   |
 | [anvim]        | my neovim configuration                             |
 | [dotfiles]     | my nixos configuration & dotfiles                   |
-| [website]      | source of [koi.rip][my website]                     |
-| [junesite]     | cool meowsite written entirely in zig with 0 deps   |
+| [website]      | [personal site][my website] written in rust         |
+| [junesite]     | cool [meowsite] written entirely in zig with 0 deps |
 | [ebil.club]    | static site hosting, bluesky handles, and more!!    |
 
 </div>
@@ -98,4 +98,5 @@ see <https://koi.rip/contact> (trying to protect myself from spam sorry)
 
 [jule]: https://jule.dev
 [my website]: https://koi.rip
+[meowsite]: https://june.xn--q9jyb4c
 [git.koi.rip]: https://git.koi.rip
