@@ -61,40 +61,36 @@ see <https://koi.rip/contact> (trying to protect myself from spam sorry)
 
 | name           | description                                         |
 |----------------|-----------------------------------------------------|
-| [evergarden]   | best cozy colorscheme ever !!!                      |
-| [ebil.club]    | static site hosting, bluesky handles, and more!!    |
+| [meowx]        | first ever meowing terminal multiplexer             |
+| [fern]         | awesome and cool logger for zig                     |
+| [cuteff]       | cute system info fetch thingy                       |
 | [kitget]       | cli tool for displaying and customizing cat images  |
-| [highlightos]  | x86_64 os (kernel) made from scratch                |
-| [cuteff]       | a cute system info fetch thingy                     |
-| [nixdle]       | wordle but it's nix functions                       |
-| [nvrs]         | fast new version checker for software releases      |
+| [evergarden]   | best cozy colorscheme ever !!!                      |
 | [nidhogg.nvim] | DMC ranks for Neovim                                |
+| [nvrs]         | fast new version checker for software releases      |
 | [jule.nvim]    | official [jule] plugin for neovim                   |
-| [linutil]      | distro-agnostic toolbox for simplifying linux tasks |
-| [snapbox]      | http client library for [jule]                      |
-| [jpu]          | fast and lightweight protonup alternative           |
 | [anvim]        | my neovim configuration                             |
 | [dotfiles]     | my nixos configuration & dotfiles                   |
 | [website]      | source of [koi.rip][my website]                     |
+| [junesite]     | cool meowsite written entirely in zig with 0 deps   |
+| [ebil.club]    | static site hosting, bluesky handles, and more!!    |
 
 </div>
 </details>
 
+[meowx]: https://git.koi.rip/koi/meowx
+[fern]: https://git.koi.rip/koi/fern
+[cuteff]: https://git.koi.rip/koi/cuteff
+[kitget]: https://git.koi.rip/koi/kitget
 [evergarden]: https://evergarden.moe
-[ebil.club]: https://ebil.club
-[kitget]: https://codeberg.org/koibtw/kitget
-[highlightos]: https://github.com/koibtw/highlightos
-[cuteff]: https://codeberg.org/koibtw/cuteff
-[nixdle]: https://github.com/nixdle/nixdle
-[nvrs]: https://github.com/koibtw/nvrs
 [nidhogg.nvim]: https://codeberg.org/koibtw/nidhogg.nvim
+[nvrs]: https://github.com/koibtw/nvrs
 [jule.nvim]: https://github.com/julelang/jule.nvim
-[linutil]: https://github.com/christitustech/linutil
-[snapbox]: https://github.com/koibtw/snapbox
-[jpu]: https://github.com/koibtw/jpu
-[anvim]: https://codeberg.org/koibtw/anvim
+[anvim]: https://git.koi.rip/koi/anvim
 [dotfiles]: https://git.koi.rip/koi/dotfiles
 [website]: https://git.koi.rip/koi/website
+[junesite]: https://git.koi.rip/koi/junesite
+[ebil.club]: https://ebil.club
 
 [ecc]: https://koi.rip/keys/00F61623FB56BC5BB7094E634CE6C1172DF6BE79.asc
 [rsa]: https://koi.rip/keys/5A530832DA9120B0CA57DDB67CBDB58ECF1D3478.asc
