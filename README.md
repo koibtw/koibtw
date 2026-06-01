@@ -34,11 +34,12 @@ im mostly active on my own open forgejo instance, [git.koi.rip]. go check it out
   alt="mimi banner"
   align="center">
 
-[website] • [projects] • [contact]
+[website] • [projects] • [contact] • [donate]
 
 </div>
 
 [website]: https://koi.rip
+[donate]: https://koi.rip/donate
 [contact]: https://koi.rip/contact
 [projects]: https://koi.rip/projects
 [git.koi.rip]: https://git.koi.rip
